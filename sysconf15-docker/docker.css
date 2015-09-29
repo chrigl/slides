@@ -1,0 +1,62 @@
+body {
+	font-family: "GloberRegular", "Ubuntu", "Helvetica", "Arial", "Sans-Serif";
+	background-image: url('sys11-logo-docker2.png');
+	background-size: 25% auto;
+	background-repeat: no-repeat;
+	background-position: 95% 5%;
+}
+a, a:visited, a:hover {
+	color: #7bac2c;
+}
+.dockerlogo {
+	/*
+	margin-left: 51%;
+	margin-top: -30%;
+	*/
+	float: right;
+}
+
+#start ul {
+	list-style-type: none;
+	margin-top: 20%;
+	padding-left: 0;
+	font-size: 150%;
+}
+#start ul li {
+	text-align: center;
+}
+
+img.containeros {
+	vertical-align: middle;
+	margin: 5%;
+}
+
+.step {
+	text-align: center;
+}
+
+li {
+	margin: 10px;
+}
+
+ul,
+pre {
+	text-align: left;
+}
+
+.strike {
+	text-decoration: line-through;
+}
+
+#containerose ul {
+	list-style-type: none;
+	text-align: center;
+}
+#containerose ul li {
+	float: left;
+	font-size: 80%;
+}
+
+#resources ul {
+	font-size: 80%;
+}
